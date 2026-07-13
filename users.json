@@ -6,7 +6,9 @@
     "lang": "ar",
     "joined": "2026-07-13 18:22 UTC",
     "joined_ts": 1783966926,
-    "files": [],
+    "files": [
+      "zip.zip"
+    ],
     "points": 10,
     "vip_until": 0,
     "last_daily": 0,
