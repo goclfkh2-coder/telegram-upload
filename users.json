@@ -62,5 +62,21 @@
     "invites": 0,
     "invite_rewards": 0,
     "purchased": []
+  },
+  "6836402869": {
+    "id": 6836402869,
+    "username": "OC7C7",
+    "first_name": "KurT",
+    "lang": "ar",
+    "joined": "2026-07-13 18:32 UTC",
+    "joined_ts": 1783967572,
+    "files": [],
+    "points": 10,
+    "vip_until": 0,
+    "last_daily": 0,
+    "invited_by": null,
+    "invites": 0,
+    "invite_rewards": 0,
+    "purchased": []
   }
 }
