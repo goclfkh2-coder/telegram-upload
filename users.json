@@ -96,5 +96,21 @@
     "invites": 0,
     "invite_rewards": 0,
     "purchased": []
+  },
+  "8070127099": {
+    "id": 8070127099,
+    "username": "X_T_S_N",
+    "first_name": "𝐴. 𝐵. 𝐷. 𝑂",
+    "lang": "ar",
+    "joined": "2026-07-13 18:55 UTC",
+    "joined_ts": 1783968952,
+    "files": [],
+    "points": 10,
+    "vip_until": 0,
+    "last_daily": 0,
+    "invited_by": null,
+    "invites": 0,
+    "invite_rewards": 0,
+    "purchased": []
   }
 }
