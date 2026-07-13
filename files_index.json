@@ -28,5 +28,15 @@
     "hours": 10,
     "release_tag": "turbo_2__2",
     "download_url": "https://github.com/goclfkh2-coder/telegram-upload/releases/download/turbo_2__2/turbo_2__2.zip"
+  },
+  "Mohab_1_.zip": {
+    "owner_id": 5701337863,
+    "size": 3053940,
+    "uploaded_at": "2026-07-13 20:18 UTC",
+    "expires_at": 1783977497,
+    "vip": false,
+    "hours": 1,
+    "release_tag": "Mohab_1_",
+    "download_url": "https://github.com/goclfkh2-coder/telegram-upload/releases/download/Mohab_1_/Mohab_1_.zip"
   }
 }
