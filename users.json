@@ -112,5 +112,21 @@
     "invites": 0,
     "invite_rewards": 0,
     "purchased": []
+  },
+  "5701337863": {
+    "id": 5701337863,
+    "username": "RTX_000",
+    "first_name": ".",
+    "lang": "ar",
+    "joined": "2026-07-13 18:56 UTC",
+    "joined_ts": 1783968962,
+    "files": [],
+    "points": 10,
+    "vip_until": 0,
+    "last_daily": 0,
+    "invited_by": null,
+    "invites": 0,
+    "invite_rewards": 0,
+    "purchased": []
   }
 }
