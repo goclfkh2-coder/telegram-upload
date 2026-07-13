@@ -78,5 +78,21 @@
     "invites": 0,
     "invite_rewards": 0,
     "purchased": []
+  },
+  "7646994788": {
+    "id": 7646994788,
+    "username": "X2440",
+    "first_name": "YOUSEF〆MOD",
+    "lang": "ar",
+    "joined": "2026-07-13 18:41 UTC",
+    "joined_ts": 1783968118,
+    "files": [],
+    "points": 10,
+    "vip_until": 0,
+    "last_daily": 0,
+    "invited_by": null,
+    "invites": 0,
+    "invite_rewards": 0,
+    "purchased": []
   }
 }
