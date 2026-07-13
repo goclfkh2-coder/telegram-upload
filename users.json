@@ -16,5 +16,21 @@
     "invites": 0,
     "invite_rewards": 0,
     "purchased": []
+  },
+  "8294278321": {
+    "id": 8294278321,
+    "username": "CM_R3",
+    "first_name": "حيدر",
+    "lang": "ar",
+    "joined": "2026-07-13 18:22 UTC",
+    "joined_ts": 1783966972,
+    "files": [],
+    "points": 10,
+    "vip_until": 0,
+    "last_daily": 0,
+    "invited_by": null,
+    "invites": 0,
+    "invite_rewards": 0,
+    "purchased": []
   }
 }
