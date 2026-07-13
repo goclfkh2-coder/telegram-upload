@@ -30,5 +30,21 @@
     "invites": 0,
     "invite_rewards": 0,
     "purchased": []
+  },
+  "6871229283": {
+    "id": 6871229283,
+    "username": "MNTHR_x",
+    "first_name": "𝐿𝐼𝐵",
+    "lang": "ar",
+    "joined": "2026-07-13 18:25 UTC",
+    "joined_ts": 1783967152,
+    "files": [],
+    "points": 10,
+    "vip_until": 0,
+    "last_daily": 0,
+    "invited_by": null,
+    "invites": 0,
+    "invite_rewards": 0,
+    "purchased": []
   }
 }
