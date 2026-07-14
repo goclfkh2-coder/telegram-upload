@@ -18,5 +18,15 @@
     "hours": 0,
     "release_tag": "turbo_2__2",
     "download_url": "https://github.com/goclfkh2-coder/telegram-upload/releases/download/turbo_2__2/turbo_2__2.zip"
+  },
+  "VENOM.zip": {
+    "owner_id": 8586848205,
+    "size": 680409,
+    "uploaded_at": "2026-07-14 14:51 UTC",
+    "expires_at": 1784044262,
+    "vip": false,
+    "hours": 1,
+    "release_tag": "VENOM",
+    "download_url": "https://github.com/goclfkh2-coder/telegram-upload/releases/download/VENOM/VENOM.zip"
   }
 }
