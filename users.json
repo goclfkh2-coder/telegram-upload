@@ -145,5 +145,21 @@
     "invites": 0,
     "invite_rewards": 0,
     "purchased": []
+  },
+  "8663214430": {
+    "id": 8663214430,
+    "username": "lib_d",
+    "first_name": "𖤍DARK𖤍",
+    "lang": "ar",
+    "joined": "2026-07-14 10:12 UTC",
+    "joined_ts": 1784023927,
+    "files": [],
+    "points": 10,
+    "vip_until": 0,
+    "last_daily": 0,
+    "invited_by": null,
+    "invites": 0,
+    "invite_rewards": 0,
+    "purchased": []
   }
 }
