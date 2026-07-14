@@ -161,5 +161,21 @@
     "invites": 0,
     "invite_rewards": 0,
     "purchased": []
+  },
+  "8586848205": {
+    "id": 8586848205,
+    "username": "P_E_U_9",
+    "first_name": "𝑾𝑨𝑹𝑹𝑰𝑶𝑹",
+    "lang": "ar",
+    "joined": "2026-07-14 14:49 UTC",
+    "joined_ts": 1784040598,
+    "files": [],
+    "points": 10,
+    "vip_until": 0,
+    "last_daily": 0,
+    "invited_by": null,
+    "invites": 0,
+    "invite_rewards": 0,
+    "purchased": []
   }
 }
