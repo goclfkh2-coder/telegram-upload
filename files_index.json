@@ -8,5 +8,15 @@
     "hours": 0,
     "release_tag": "turbo_2_",
     "download_url": "https://github.com/goclfkh2-coder/telegram-upload/releases/download/turbo_2_/turbo_2_.zip"
+  },
+  "turbo_2__2.zip": {
+    "owner_id": 7165520475,
+    "size": 549514,
+    "uploaded_at": "2026-07-14 08:41 UTC",
+    "expires_at": 0,
+    "vip": true,
+    "hours": 0,
+    "release_tag": "turbo_2__2",
+    "download_url": "https://github.com/goclfkh2-coder/telegram-upload/releases/download/turbo_2__2/turbo_2__2.zip"
   }
 }
