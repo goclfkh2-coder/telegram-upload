@@ -193,5 +193,21 @@
     "invites": 0,
     "invite_rewards": 0,
     "purchased": []
+  },
+  "5141514242": {
+    "id": 5141514242,
+    "username": "VLACKIO",
+    "first_name": "6",
+    "lang": "ar",
+    "joined": "2026-07-16 22:23 UTC",
+    "joined_ts": 1784240636,
+    "files": [],
+    "points": 10,
+    "vip_until": 0,
+    "last_daily": 0,
+    "invited_by": null,
+    "invites": 0,
+    "invite_rewards": 0,
+    "purchased": []
   }
 }
