@@ -209,5 +209,21 @@
     "invites": 0,
     "invite_rewards": 0,
     "purchased": []
+  },
+  "8006643331": {
+    "id": 8006643331,
+    "username": "ZRZXll",
+    "first_name": "║♛V I P ♛║",
+    "lang": "ar",
+    "joined": "2026-07-17 10:39 UTC",
+    "joined_ts": 1784284774,
+    "files": [],
+    "points": 10,
+    "vip_until": 0,
+    "last_daily": 0,
+    "invited_by": null,
+    "invites": 0,
+    "invite_rewards": 0,
+    "purchased": []
   }
 }
